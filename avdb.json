@@ -23,7 +23,12 @@
       "type": 1,
       "api": "https://avdbapi.com/api.php/provide/vod",
       "searchable": 1,
-      "quickSearch": 1
+      "quickSearch": 1,
+      "categories": [],
+      "style": {
+        "type": "rect",
+        "ratio": 1.6
+      }
     }
   ],
   "lives": [
