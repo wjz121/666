@@ -25,7 +25,18 @@
       "searchable": 1,
       "changeable": 1,
       "categories": []
-    }
+    },
+
+{
+			"key": "ikun",
+			"name": "ikun",
+			"type": 1,
+			"api": "https://avdbapi.com/api.php/provide1/vod?",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
+			"playerType":1,
+			"searchable": 1,
+			"changeable": 1
+		},
   ],
   "lives": [
     {
