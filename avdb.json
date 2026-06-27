@@ -21,7 +21,7 @@
       "key": "AVDB",
       "name": "AVDB",
       "type": 1,
-      "api": "https://avdbapi.com/api.php/provide1/vod",
+      "api": "http://fq.89723145.xyz//api.php/provide1/vod/?ac=list",
       "searchable": 1,
       "changeable": 1,
       "categories": []
